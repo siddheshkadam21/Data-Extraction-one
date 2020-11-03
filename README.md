@@ -1,7 +1,7 @@
 # Data-Extraction-one
 ## Imported the necessary libraries.
 ## Load traning data
-## Loading spacy english model
+## Load spacy english model
 ## Writting Function
 - Which will take tranning data as a input
 - We will add name entity recognition at thr last position in pipeline
